@@ -1,5 +1,16 @@
 # MAD_Assignment-2_21012021031
 
+# Discription:
+Quiz Application” is a collection of number of different types of quizzes like technical, games, sports, etc. A user can access/play all of the quiz and can attempt any of the one. 
+There will be limited number of questions and for each correct answer user will get a credit score.The Quiz App allows users to select a quiz category and answer a set of multiple-choice 
+questions within a specified time limit.
+
+# FUNCTIONALITY:
+Adding The Question And Answer.
+Delete The Question And Answer.
+Update The Quiz.
+Delete The Question And Answer.
+
 <b>Q.1</b>
 Create a Quiz Application Using Kotlin.
 
