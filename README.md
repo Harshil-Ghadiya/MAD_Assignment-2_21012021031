@@ -15,9 +15,8 @@ Update The Quiz.
 Delete The Question And Answer.
 
 
-<b>Q.1</b>
 
-Create a Quiz Application Using Kotlin.
+<b>Create a Quiz Application Using Kotlin.</b>
 
 <b>Start Quiz</b>
 
