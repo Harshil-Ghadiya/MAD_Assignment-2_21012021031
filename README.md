@@ -17,6 +17,12 @@ Create a Quiz Application Using Kotlin.
 ![question ans 2](https://github.com/Harshil-Ghadiya/MAD_Assignment-2_21012021031/assets/122811629/ead51e3a-024a-439a-920f-1e8c0f17c14d)
 
 
+#Wrong Quiz Answer
+
+
+![wrong Answer](https://github.com/Harshil-Ghadiya/MAD_Assignment-2_21012021031/assets/122811629/e33935e1-50ec-4131-a270-c4a6248b1bd4)
+
+
 #Quiz Result
 
 
