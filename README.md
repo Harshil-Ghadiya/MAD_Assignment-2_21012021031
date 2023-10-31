@@ -7,11 +7,16 @@ questions within a specified time limit.
 
 # FUNCTIONALITY:
 Adding The Question And Answer.
-Delete The Question And Answer.
-Update The Quiz.
+
 Delete The Question And Answer.
 
+Update The Quiz.
+
+Delete The Question And Answer.
+
+
 <b>Q.1</b>
+
 Create a Quiz Application Using Kotlin.
 
 <b>Start Quiz</b>
