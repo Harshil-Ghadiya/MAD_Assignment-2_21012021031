@@ -12,7 +12,7 @@ Delete The Question And Answer.
 
 Update The Quiz.
 
-Delete The Question And Answer.
+Performance of the Quiz Result.
 
 
 
